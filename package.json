@@ -1,0 +1,14 @@
+{
+  "name": "encode-url-words",
+  "version": "1.0.0",
+  "description": "Encoding url except slashes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Oskar Kaminski",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
