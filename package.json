@@ -1,6 +1,6 @@
 {
   "name": "encode-url-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encoding url except slashes",
   "main": "index.js",
   "scripts": {
