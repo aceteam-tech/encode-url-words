@@ -1,6 +1,6 @@
 {
   "name": "encode-url-words",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Encoding url except slashes",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Oskar Kaminski",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aceteam-tech/encode-url-words"
+  },
   "devDependencies": {
     "jest": "^24.8.0"
   }
